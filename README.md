@@ -39,7 +39,7 @@ Non eliminare o spostare la cartella estratta mentre l'estensione è installata.
 - **Share backup** crea un file ZIP portabile dell'archivio locale.
 - **Import backup** importa o unisce un backup ZIP; sono compatibili anche i vecchi file JSON e CSV.
 - Prima di usare **Clear index**, salva un backup se vuoi conservare i dati.
-- L'[archivio web locale](https://insta-find.vercel.app/index.html) può importare lo stesso ZIP senza caricarlo su un server.
+- Nell'[archivio web locale](https://insta-find.vercel.app/index.html), trascina il file sull'area centrale oppure tocca l'area per sceglierlo. Funziona sia con un archivio vuoto sia per unire aggiornamenti.
 
 ### Privacy
 
@@ -92,7 +92,7 @@ Do not delete or move the extracted folder while the extension is installed. To 
 - **Share backup** creates a portable ZIP file containing the local archive.
 - **Import backup** imports or merges a ZIP backup; older JSON and CSV files remain compatible.
 - Before using **Clear index**, save a backup if you want to keep the data.
-- The [local web archive](https://insta-find.vercel.app/index.html) can import the same ZIP without uploading it to a server.
+- In the [local web archive](https://insta-find.vercel.app/index.html), drop the file onto the central area or tap the area to choose it. It works both with an empty archive and to merge later updates.
 
 ### Privacy
 
