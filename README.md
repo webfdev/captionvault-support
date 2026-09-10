@@ -40,7 +40,7 @@ Non eliminare o spostare la cartella estratta mentre l'estensione è installata.
 - **Import backup** importa o unisce un backup ZIP; sono compatibili anche i vecchi file JSON e CSV.
 - Prima di usare **Clear index**, salva un backup se vuoi conservare i dati.
 - Nell'[archivio web locale](https://insta-find.vercel.app/index.html), trascina il file sull'area centrale oppure tocca l'area per sceglierlo. Funziona sia con un archivio vuoto sia per unire aggiornamenti.
-- Nell'archivio web, **Remove from archive** elimina un post e lo esclude dalle importazioni successive sullo stesso dispositivo. **Clear index** cancella anche queste esclusioni e permette di importarlo di nuovo.
+- Nell'archivio web, **Remove from archive** elimina un post e lo esclude dalle importazioni successive sullo stesso dispositivo. Apri **Excluded posts** nelle opzioni per vedere l'elenco, ripristinare un singolo post o ripristinarli tutti. **Clear index** cancella anche queste esclusioni.
 
 ### Privacy
 
@@ -94,7 +94,7 @@ Do not delete or move the extracted folder while the extension is installed. To 
 - **Import backup** imports or merges a ZIP backup; older JSON and CSV files remain compatible.
 - Before using **Clear index**, save a backup if you want to keep the data.
 - In the [local web archive](https://insta-find.vercel.app/index.html), drop the file onto the central area or tap the area to choose it. It works both with an empty archive and to merge later updates.
-- In the web archive, **Remove from archive** deletes a post and excludes it from later imports on the same device. **Clear index** also clears these exclusions and allows the post to be imported again.
+- In the web archive, **Remove from archive** deletes a post and excludes it from later imports on the same device. Open **Excluded posts** in the options area to review the list, restore one post, or restore all of them. **Clear index** also clears these exclusions.
 
 ### Privacy
 
