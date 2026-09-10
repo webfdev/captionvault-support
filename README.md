@@ -30,6 +30,10 @@ Non eliminare o spostare la cartella estratta mentre l'estensione è installata.
 5. Se Instagram carica i post in modo discontinuo, seleziona la velocità **Slow** e riprova.
 6. Seleziona **Search local index** per cercare didascalie, profili o hashtag e riaprire i post originali.
 
+| Prima scansione: **Full scan** | Scansioni successive: **Update** |
+| --- | --- |
+| <img src="images/full-scan-mode.png" alt="Pulsante Full scan evidenziato in CaptionVault" width="360"> | <img src="images/update-mode.png" alt="Pulsante Update evidenziato in CaptionVault" width="360"> |
+
 ### Backup e trasferimento
 
 - **Share backup** crea un file ZIP portabile dell'archivio locale.
@@ -78,6 +82,10 @@ Do not delete or move the extracted folder while the extension is installed. To 
 4. For later scans, use **Update**, which stops after 30 already-known posts.
 5. If Instagram loads posts unreliably, select **Slow** and try again.
 6. Select **Search local index** to search captions, profiles, or hashtags and reopen original posts.
+
+| First scan: **Full scan** | Later scans: **Update** |
+| --- | --- |
+| <img src="images/full-scan-mode.png" alt="Full scan button highlighted in CaptionVault" width="360"> | <img src="images/update-mode.png" alt="Update button highlighted in CaptionVault" width="360"> |
 
 ### Backups and transfer
 
